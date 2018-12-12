@@ -1,0 +1,12 @@
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.SyncServerSuperSuporte.resources
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.csproj.GenerateResource.cache
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.csproj.CoreCompileInputs.cache
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.Properties.Resources.resources
+C:\FuturaData\SyncServer\SyncServerSuperSuporte.exe.config
+C:\FuturaData\SyncServer\SyncServerSuperSuporte.exe
+C:\FuturaData\SyncServer\SyncServerSuperSuporte.pdb
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.csproj.CopyComplete
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.exe
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.pdb
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServerSuperSuporte.csprojAssemblyReference.cache
+C:\FuturaData\SyncServer\Interop.NetFwTypeLib.dll

@@ -1,0 +1,11 @@
+C:\FuturaData\SyncServer\FuturaDataSyncServer.exe.config
+C:\FuturaData\SyncServer\FuturaDataSyncServer.exe
+C:\FuturaData\SyncServer\FuturaDataSyncServer.pdb
+C:\PcDev\Business\SyncServer\obj\Debug\FuturaDataSyncServer.Properties.Resources.resources
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServer.csproj.GenerateResource.cache
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServer.csproj.CoreCompileInputs.cache
+C:\PcDev\Business\SyncServer\obj\Debug\FuturaDataSyncServer.exe
+C:\PcDev\Business\SyncServer\obj\Debug\FuturaDataSyncServer.pdb
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServer.csprojAssemblyReference.cache
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServer.csproj.CopyComplete
+C:\PcDev\Business\SyncServer\obj\Debug\SyncServer.SyncServer.resources
