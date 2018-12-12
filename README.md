@@ -13,7 +13,7 @@ Note: The program need 4 DLLS. They're included in the "Library" folder, "ionic.
 
 Note: This Software was developed by me too many years ago, a tool for backup a C# ERP WinForms application. Then i decide to open the source and just adapt it to be an opensource. This source has too many years, so maybe all the currently design patters are not nowdays/updated.
 
-To run this program: Create a folder c:\MsSqlServerBackup (where it will be build). Put inside the folder, the 3 files in "Library" path on this solution. Configure your database in "database.xml". Run it, configure on screen and enjoy.
+To run this program: Create a folder c:\MsSqlServerBackup and change the Output folder to it. Put inside the folder, the 3 files in "Library" path on this solution. Configure your database in "database.xml". Run it, configure on screen and enjoy. If your project don't compile because WindowsFirewallHelper, re-add the Reference using the Library folder (dll is there).
 ________________________________________
 C# Windows forms - aplicativo para monitorar e efetuar backups automáticos do SQL Server.
 Você pode instalar esse aplicativo em um computador com uma instância do SQL Server, e programar ele para fazer backups automáticos do seu banco. Exemplo: Se você tem um Software feito com SQL Server, você pode instalar esse programa nos seus clientes para fazer backup do banco de dados do seu software. Apenas informe a configuração do banco (Nome Servidor, instância, nome banco) no database.xml (na raiz desse programa) e deixe que ele trabalhe. 
@@ -30,4 +30,4 @@ Nota: O programa precisa de 3 DLLS. Elas estão incluidas na pasta "Library", "i
 
 Nota: Esse software foi desenvolvido por mim a muitos anos atrás, uma ferramenta pra backup de um ERP Windows Forms C#. Então eu decidi abrir o fonte e apenas adaptar pra opensource. Esse código tem muitos anos, então talvez não esteja de acordo com os design patterns atuais.
 
-Para rodar esse programa: Crie uma pasta c:\MsSqlServerBackup (onde será compilado). Coloque dentro da pasta os 3 arquivos na pasta "Library" nessa solução. Configure seu banco de dados no arquivo "database.xml". Rode, configure na tela e aproveite.
+Para rodar esse programa: Crie uma pasta c:\MsSqlServerBackup (onde será compilado) e mude o "Output" para essa pasta. Coloque dentro da pasta os 3 arquivos na pasta "Library" nessa solução. Configure seu banco de dados no arquivo "database.xml". Rode, configure na tela e aproveite. Se seu projeto não rodar por causa da referência WindowsFirewallHelper, re-adicione a Referência a dll usando a pasta Library (a dll está lá).
